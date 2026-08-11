@@ -1,0 +1,12 @@
+name = "nirav"
+age = 18
+college = "ganpat university"
+branch = "computer engineering"
+semester = 3
+
+
+print("my name is:", name)
+print("my age is:", age)
+print("my college name is:", college)
+print("my branch is:", branch)
+print("my semester is:", semester)
